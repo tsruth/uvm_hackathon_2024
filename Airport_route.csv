@@ -30,7 +30,7 @@ UVM Medical Center,7:47 PM,Kennedy Drive,7:57 PM,Saturday
 UVM Medical Center,8:17 PM,Kennedy Drive,8:27 PM,Saturday
 UVM Medical Center,9:32 PM,Kennedy Drive,9:42 PM,Saturday
 UVM Medical Center,10:37 PM,Kennedy Drive,10:57 PM,Saturday
-UVM Medical Center,8:46 AM,Waterfront,8:56 am*,Sunday
+UVM Medical Center,8:46 AM,Waterfront,8:56 am,Sunday
 UVM Medical Center,10:01 AM,Waterfront,10:11 AM,Sunday
 UVM Medical Center,11:16 AM,Waterfront,11:26 AM,Sunday
 UVM Medical Center,12:31 PM,Waterfront,12:41 PM,Sunday
@@ -43,7 +43,7 @@ UVM Medical Center,6:50 AM,Waterfront,7:05 AM,Weekdays
 UVM Medical Center,7:35 AM,Waterfront,7:50 AM,Weekdays
 UVM Medical Center,8:20 AM,Waterfront,8:35 AM,Weekdays
 UVM Medical Center,9:05 AM,Waterfront,9:20 AM,Weekdays
-UVM Medical Center,9:50 AM,Waterfront,10:05 am*,Weekdays
+UVM Medical Center,9:50 AM,Waterfront,10:05 am,Weekdays
 UVM Medical Center,10:35 AM,Waterfront,10:50 AM,Weekdays
 UVM Medical Center,11:20 AM,Waterfront,11:35 AM,Weekdays
 UVM Medical Center,12:05 PM,Waterfront,12:20 PM,Weekdays
@@ -59,13 +59,13 @@ UVM Medical Center,6:50 PM,Waterfront,7:05 PM,Weekdays
 UVM Medical Center,7:34 PM,Waterfront,7:49 PM,Weekdays
 UVM Medical Center,8:19 PM,Waterfront,8:34 PM,Weekdays
 UVM Medical Center,8:49 PM,Waterfront,9:04 PM,Weekdays
-UVM Medical Center,10:04 PM,Waterfront,10:19 pm*,Weekdays
+UVM Medical Center,10:04 PM,Waterfront,10:19 pm,Weekdays
 UVM Medical Center,11:19 PM,Waterfront,11:34 PM,Weekdays
 UVM Medical Center,6:47 AM,Waterfront,7:02 AM,Saturday
 UVM Medical Center,7:32 AM,Waterfront,7:47 AM,Saturday
 UVM Medical Center,8:17 AM,Waterfront,8:32 AM,Saturday
 UVM Medical Center,9:02 AM,Waterfront,9:17 AM,Saturday
-UVM Medical Center,9:47 AM,Waterfront,10:02 am*,Saturday
+UVM Medical Center,9:47 AM,Waterfront,10:02 am,Saturday
 UVM Medical Center,10:32 AM,Waterfront,10:47 AM,Saturday
 UVM Medical Center,11:16 AM,Waterfront,11:32 AM,Saturday
 UVM Medical Center,12:02 PM,Waterfront,12:17 PM,Saturday
@@ -81,7 +81,7 @@ UVM Medical Center,6:47 PM,Waterfront,7:02 PM,Saturday
 UVM Medical Center,7:32 PM,Waterfront,7:47 PM,Saturday
 UVM Medical Center,8:17 PM,Waterfront,8:32 PM,Saturday
 UVM Medical Center,8:47 PM,Waterfront,9:02 PM,Saturday
-UVM Medical Center,10:02 PM,Waterfront,10:17* pm,Saturday
+UVM Medical Center,10:02 PM,Waterfront,10:17 pm,Saturday
 UVM Medical Center,11:17 PM,Waterfront,11:32 PM,Saturday
 UVM Medical Center,6:20 AM,Kennedy Drive at Timber Lane,6:30 AM,Weekdays
 UVM Medical Center,7:05 AM,Kennedy Drive at Timber Lane,7:15 AM,Weekdays

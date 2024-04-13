@@ -11,45 +11,44 @@
     <body>
       <section class = "header">
         <h1>Burlington Bus Stops</h1>
-        <h2>Closest Stop: Waterman</h2>
       </section>
       <section class = "bus_stops">
         {% for line in data %}
         <section class = "bus_route" id="red_exp">
           <h2>{{line['line']}}</h2>
           <section class = "stops">
-            <h3>{{line['origin']}}</h3>
-            <h3>{{line['destin']}}</h3>
+            <h3>Closest Stop: {{line['Closest Stop']}}</h3>
+            <h3>Next Stop: {{line['Next Stop']}}</h3>
     
           </section>
-          <div class="progress_bar"></div>
-          <div class = "bus"></div>
+          <!-- <div class="progress_bar"></div>
+          <div class = "bus"></div> -->
           <section class="estimates">
             <section class="est_stop" id="early">
               <div class ="time">
                 <h5>Arrival:</h5>
-                <h2 id="time_O">{{line['tt_O']}} Min</h2>
+                <h2 id="t_time_O">{{line['Closest Stop Arrival Time']}}</h2>
               </div>
-              <div class="dist">
+              <!-- <div class="dist">
                 <h5>Distance:</h5>
-                <h4>{{line['dist_O']}} miles</h4>
+                <h4> miles</h4>
               </div>
               <div class="sch_tme">
                 <h5>Scheduled Time:</h5>
-                <h4>{{line['sch_t_O']}} PM</h4>
-              </div>    
+                <h4> PM</h4>
+              </div>     -->
     
             </section>
             <section class="est_stop" id="on_t">
               <div class ="time">
                 <h5>Arrival:</h5>
-                <h2 id="t_categ">{{line['tt_D']}} Min</h2>
+                <h2 id="t_categ">{{line['Arrival at Next Stop']}}</h2>
               </div>
 
-              <div class="sch_tme">
+              <!-- <div class="sch_tme">
                 <h5>Scheduled Time:</h5>
-                <h4>{{line['sch_t_O']}} PM</h4>
-              </div>    
+                <h4> PM</h4>
+              </div>     -->
             </section>
     
           </section>
