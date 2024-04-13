@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Bradon Soucy's Website</title>
+        <meta name="description" content="Bus App">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/static/custom.css" type="text/css">
+    </head>
+    <body>
+      <section class = "header">
+        <h1>Burlington Bus Stops</h1>
+        <h2>Closest Stop: Waterman</h2>
+      </section>
+      <section class = "bus_stops">
+        {% for line in data %}
+        <section class = "bus_route" id="red_exp">
+          <h2>{{line['line']}}</h2>
+          <section class = "stops">
+            <h3>{{line['origin']}}</h3>
+            <h3>{{line['destin']}}</h3>
+    
+          </section>
+          <div class="progress_bar"></div>
+          <div class = "bus"></div>
+          <section class="estimates">
+            <section class="est_stop" id="early">
+              <div class ="time">
+                <h5>Arrival:</h5>
+                <h2 id="time_O">{{line['tt_O']}} Min</h2>
+              </div>
+              <div class="dist">
+                <h5>Distance:</h5>
+                <h4>{{line['dist_O']}} miles</h4>
+              </div>
+              <div class="sch_tme">
+                <h5>Scheduled Time:</h5>
+                <h4>{{line['sch_t_O']}} PM</h4>
+              </div>    
+    
+            </section>
+            <section class="est_stop" id="on_t">
+              <div class ="time">
+                <h5>Arrival:</h5>
+                <h2 id="t_categ">{{line['tt_D']}} Min</h2>
+              </div>
+
+              <div class="sch_tme">
+                <h5>Scheduled Time:</h5>
+                <h4>{{line['sch_t_O']}} PM</h4>
+              </div>    
+            </section>
+    
+          </section>
+                    
+        </section>
+        {% endfor %}
+      </section>
+    </body>
+</html>
