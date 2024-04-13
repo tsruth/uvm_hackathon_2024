@@ -1,0 +1,157 @@
+Arrival Time,Next Stop,Arrival at Next Stop,Days
+6:06 AM,University Mall,6:12 AM,Weekdays
+6:26 AM,University Mall,6:32 AM,Weekdays
+6:46 AM,University Mall,6:52 AM,Weekdays
+7:06 AM,University Mall,7:12 AM,Weekdays
+7:28 AM,University Mall,7:35 AM,Weekdays
+7:48 AM,University Mall,7:55 AM,Weekdays
+8:08 AM,University Mall,8:15 AM,Weekdays
+8:28 AM,University Mall,8:35 AM,Weekdays
+8:48 AM,University Mall,8:55 AM,Weekdays
+9:08 AM,University Mall,9:15 AM,Weekdays
+9:28 AM,University Mall,9:35 AM,Weekdays
+9:48 AM,University Mall,9:55 AM,Weekdays
+10:08 AM,University Mall,10:15 AM,Weekdays
+10:28 AM,University Mall,10:35 AM,Weekdays
+10:48 AM,University Mall,10:55 AM,Weekdays
+11:09 AM,University Mall,11:16 AM,Weekdays
+11:29 AM,University Mall,11:36 AM,Weekdays
+11:49 AM,University Mall,11:56 AM,Weekdays
+12:09 PM,University Mall,12:16 PM,Weekdays
+12:29 PM,University Mall,12:36 PM,Weekdays
+12:49 PM,University Mall,12:56 PM,Weekdays
+1:09 PM,University Mall,1:16 PM,Weekdays
+1:29 PM,University Mall,1:36 PM,Weekdays
+1:49 PM,University Mall,1:56 PM,Weekdays
+2:09 PM,University Mall,2:16 PM,Weekdays
+2:29 PM,University Mall,2:36 PM,Weekdays
+2:53 PM,University Mall,3:00 PM,Weekdays
+3:13 PM,University Mall,3:20 PM,Weekdays
+3:33 PM,University Mall,3:40 PM,Weekdays
+3:53 PM,University Mall,4:00 PM,Weekdays
+4:13 PM,University Mall,4:20 PM,Weekdays
+4:33 PM,University Mall,4:40 PM,Weekdays
+4:53 PM,University Mall,5:00 PM,Weekdays
+5:09 PM,University Mall,5:16 PM,Weekdays
+5:29 PM,University Mall,5:36 PM,Weekdays
+5:48 PM,University Mall,5:55 PM,Weekdays
+6:08 PM,University Mall,6:15 PM,Weekdays
+6:38 PM,University Mall,6:45 PM,Weekdays
+7:06 PM,University Mall,7:12 PM,Weekdays
+8:06 PM,University Mall,8:12 PM,Weekdays
+9:21 PM,University Mall,9:27 PM,Weekdays
+10:36 PM,University Mall,10:42 PM,Weekdays
+8:06 AM,University Mall,8:12 AM,Sunday
+8:51 AM,University Mall,8:57 AM,Sunday
+9:36 AM,University Mall,9:42 AM,Sunday
+10:21 AM,University Mall,10:27 AM,Sunday
+11:06 AM,University Mall,11:12 AM,Sunday
+11:51 AM,University Mall,11:57 AM,Sunday
+12:36 PM,University Mall,12:42 PM,Sunday
+1:21 PM,University Mall,1:27 PM,Sunday
+2:06 PM,University Mall,2:12 PM,Sunday
+2:51 PM,University Mall,2:57 PM,Sunday
+3:36 PM,University Mall,3:42 PM,Sunday
+4:21 PM,University Mall,4:27 PM,Sunday
+5:06 PM,University Mall,5:12 PM,Sunday
+5:51 PM,University Mall,5:57 PM,Sunday
+6:36 PM,University Mall,6:42 PM,Sunday
+6:23 AM,Downtown Transit Center,6:30 AM,Weekdays
+6:43 AM,Downtown Transit Center,6:50 AM,Weekdays
+7:03 AM,Downtown Transit Center,7:10 AM,Weekdays
+7:23 AM,Downtown Transit Center,7:30 AM,Weekdays
+7:46 AM,Downtown Transit Center,7:55 AM,Weekdays
+8:06 AM,Downtown Transit Center,8:15 AM,Weekdays
+8:31 AM,Downtown Transit Center,8:40 AM,Weekdays
+8:51 AM,Downtown Transit Center,9:00 AM,Weekdays
+9:11 AM,Downtown Transit Center,9:20 AM,Weekdays
+9:31 AM,Downtown Transit Center,9:40 AM,Weekdays
+9:51 AM,Downtown Transit Center,10:00 AM,Weekdays
+10:11 AM,Downtown Transit Center,10:20 AM,Weekdays
+10:33 AM,Downtown Transit Center,10:45 AM,Weekdays
+10:53 AM,Downtown Transit Center,11:05 AM,Weekdays
+11:13 AM,Downtown Transit Center,11:25 AM,Weekdays
+11:33 AM,Downtown Transit Center,11:45 AM,Weekdays
+11:53 AM,Downtown Transit Center,12:05 PM,Weekdays
+12:18 PM,Downtown Transit Center,12:30 PM,Weekdays
+12:38 PM,Downtown Transit Center,12:50 PM,Weekdays
+12:58 PM,Downtown Transit Center,1:10 PM,Weekdays
+1:18 PM,Downtown Transit Center,1:30 PM,Weekdays
+1:38 PM,Downtown Transit Center,1:50 PM,Weekdays
+1:58 PM,Downtown Transit Center,2:10 PM,Weekdays
+2:18 PM,Downtown Transit Center,2:30 PM,Weekdays
+2:38 PM,Downtown Transit Center,2:50 PM,Weekdays
+3:01 PM,Downtown Transit Center,3:15 PM,Weekdays
+3:21 PM,Downtown Transit Center,3:35 PM,Weekdays
+3:41 PM,Downtown Transit Center,3:55 PM,Weekdays
+4:06 PM,Downtown Transit Center,4:20 PM,Weekdays
+4:26 PM,Downtown Transit Center,4:40 PM,Weekdays
+4:46 PM,Downtown Transit Center,5:00 PM,Weekdays
+5:06 PM,Downtown Transit Center,5:20 PM,Weekdays
+5:26 PM,Downtown Transit Center,5:40 PM,Weekdays
+5:49 PM,Downtown Transit Center,6:03 PM,Weekdays
+6:03 PM,Downtown Transit Center,6:15 PM,Weekdays
+6:18 PM,Downtown Transit Center,6:30 PM,Weekdays
+6:38 PM,Downtown Transit Center,6:50 PM,Weekdays
+6:51 PM,Downtown Transit Center,7:00 PM,Weekdays
+7:11 PM,Downtown Transit Center,7:20 PM,Weekdays
+7:41 PM,Downtown Transit Center,7:50 PM,Weekdays
+8:03 PM,Downtown Transit Center,8:10 PM,Weekdays
+9:03 PM,Downtown Transit Center,9:10 PM,Weekdays
+10:18 PM,Downtown Transit Center,10:25 PM,Weekdays
+11:28 PM,Downtown Transit Center,11:40 PM,Weekdays
+6:33 AM,Downtown Transit Center,6:45 AM,Saturday
+7:33 AM,Downtown Transit Center,7:45 AM,Saturday
+8:03 AM,Downtown Transit Center,8:15 AM,Saturday
+8:33 AM,Downtown Transit Center,8:45 AM,Saturday
+9:03 AM,Downtown Transit Center,9:15 AM,Saturday
+9:33 AM,Downtown Transit Center,9:45 AM,Saturday
+10:03 AM,Downtown Transit Center,10:15 AM,Saturday
+10:43 AM,Downtown Transit Center,10:55 AM,Saturday
+11:13 AM,Downtown Transit Center,11:25 AM,Saturday
+11:48 AM,Downtown Transit Center,12:00 PM,Saturday
+12:18 PM,Downtown Transit Center,12:30 PM,Saturday
+12:48 PM,Downtown Transit Center,1:00 PM,Saturday
+1:18 PM,Downtown Transit Center,1:30 PM,Saturday
+1:48 PM,Downtown Transit Center,2:00 PM,Saturday
+2:18 PM,Downtown Transit Center,2:30 PM,Saturday
+2:48 PM,Downtown Transit Center,3:00 PM,Saturday
+3:18 PM,Downtown Transit Center,3:30 PM,Saturday
+3:48 PM,Downtown Transit Center,4:00 PM,Saturday
+4:18 PM,Downtown Transit Center,4:30 PM,Saturday
+4:48 PM,Downtown Transit Center,5:00 PM,Saturday
+5:18 PM,Downtown Transit Center,5:30 PM,Saturday
+5:48 PM,Downtown Transit Center,6:00 PM,Saturday
+6:13 PM,Downtown Transit Center,6:25 PM,Saturday
+6:38 PM,Downtown Transit Center,6:50 PM,Saturday
+7:08 PM,Downtown Transit Center,7:20 PM,Saturday
+7:38 PM,Downtown Transit Center,7:50 PM,Saturday
+8:03 PM,Downtown Transit Center,8:15 PM,Saturday
+9:03 PM,Downtown Transit Center,9:15 PM,Saturday
+10:18 PM,Downtown Transit Center,10:30 PM,Saturday
+11:33 PM,Downtown Transit Center,11:45 PM,Saturday
+5:10 PM,Downtown Transit Center,—,Saturday
+5:25 PM,Downtown Transit Center,—,Saturday
+5:45 PM,Downtown Transit Center,—,Saturday
+6:03 PM,Downtown Transit Center,—,Saturday
+6:23 PM,Downtown Transit Center,—,Saturday
+6:53 PM,Downtown Transit Center,—,Saturday
+7:20 PM,Downtown Transit Center,—,Saturday
+8:20 PM,Downtown Transit Center,—,Saturday
+9:35 PM,Downtown Transit Center,—,Saturday
+10:50 PM,Downtown Transit Center,—,Saturday
+9:03 AM,Downtown Transit Center,9:15 AM,Sunday
+9:48 AM,Downtown Transit Center,10:00 AM,Sunday
+10:33 AM,Downtown Transit Center,10:45 AM,Sunday
+11:18 AM,Downtown Transit Center,11:30 AM,Sunday
+12:03 PM,Downtown Transit Center,12:15 PM,Sunday
+12:48 PM,Downtown Transit Center,1:00 PM,Sunday
+1:33 PM,Downtown Transit Center,1:45 PM,Sunday
+2:18 PM,Downtown Transit Center,2:30 PM,Sunday
+3:03 PM,Downtown Transit Center,3:15 PM,Sunday
+3:48 PM,Downtown Transit Center,4:00 PM,Sunday
+4:33 PM,Downtown Transit Center,4:45 PM,Sunday
+5:18 PM,Downtown Transit Center,5:30 PM,Sunday
+6:03 PM,Downtown Transit Center,6:15 PM,Sunday
+6:48 PM,Downtown Transit Center,7:00 PM,Sunday
+7:33 PM,Downtown Transit Center,7:45 PM,Sunday
