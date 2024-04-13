@@ -1,43 +1,107 @@
 *{
-    margin:0;
-    padding:0;
-  }
-  .header{
-    width:100%; 
-    text-align: center;  
-  }
+  margin:0;
+  padding:0;
+}
+.header{
+  width:100%; 
+  text-align: center;  
+}
+
+.header h1, .header h2{
+  margin: 0.25em 0em;
+}
+
+.bus_stops{
+  display: block;
   
-  .header h1, .header h2{
-    margin: 0.25em 0em;
-  }
+}
+
+.bus_route{
+  border: solid thin black;
+  padding: 0.5em 1em;
+}
+
+
+.stops{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 1em 0em;
+}
+
+.bus_route .progress_bar{
+  width: 92%;
+  height: 1em;
+  margin: 0em auto;
+  background:grey;
+}
+
+.bus_route .bus{
   
-  .bus_stops{
-    display: block;
-    background: grey;
-    
-  }
-  
-  
-  .stops{
-    display: flex;
-    justify-content: space-around;
-    margin: 1em 0em;
-  }
-  
-  .bus_route .progress_bar{
-    width: 92%;
-    height: 1em;
-    margin: 0em auto;
-    background:white;
-  }
-  
-  .bus_route .bus{
-    
-    width:1.5em;
-    height:1.5em;
-    background:green;
-    border-radius: 0.75em;
-    transform: translate(10vw,-1.25em); 
-  }
-  
-  
+  width:1.5em;
+  height:1.5em;
+  background:blue;
+  border-radius: 0.75em;
+  transform: translate(10vw,-1.25em); 
+}
+
+.estimates{
+  display: flex;
+  justify-content: space-evenly;
+  width:100%;
+}
+
+.est_stop h5{
+  margin-right:20%;
+}
+
+.est_stop{
+  display: grid;
+  grid-template-areas:
+  "arrival arrival"
+  "status distance"
+  "sch_tme sch_tme";
+  width:100%;
+  text-align:center;
+  border-left: thin solid black;
+}
+
+.est_stop:nth-child(1){
+  border: none;
+}
+
+
+.est_stop .time{
+  grid-area:arrival;
+}
+
+.est_stop .status{
+  grid-area:status;
+}
+
+.est_stop .dist{
+  grid-area:distance;
+}
+
+.est_stop .sch_tme{
+  grid-area:sch_tme;
+}
+
+.est_stop .sch_tme h5{
+  margin-left:15%;
+}
+
+
+
+.estimates #on_t h4, .estimates #on_t h2{
+  color: green;
+
+}
+
+.estimates #late h4, .estimates #late h2{
+  color: red;
+
+}
+.estimates #early h4, .estimates #early h2{
+  color: blue;
+
+}
