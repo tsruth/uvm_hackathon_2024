@@ -1,0 +1,107 @@
+Closest Stop,Closest Stop Arrival Time,Next Stop,Arrival at Next Stop,Days
+UVM Medical Center,8:17 AM,Kennedy Drive,8:27 AM,Sunday
+UVM Medical Center,9:32 AM,Kennedy Drive,9:42 AM,Sunday
+UVM Medical Center,10:47 AM,Kennedy Drive,10:57 AM,Sunday
+UVM Medical Center,12:02 PM,Kennedy Drive,12:12 PM,Sunday
+UVM Medical Center,1:17 PM,Kennedy Drive,1:27 PM,Sunday
+UVM Medical Center,2:32 PM,Kennedy Drive,2:42 PM,Sunday
+UVM Medical Center,3:47 PM,Kennedy Drive,3:57 PM,Sunday
+UVM Medical Center,5:02 PM,Kennedy Drive,5:12 PM,Sunday
+UVM Medical Center,6:17 PM,Kennedy Drive,6:27 PM,Sunday
+UVM Medical Center,6:17 AM,Kennedy Drive,6:27 AM,Saturday
+UVM Medical Center,7:02 AM,Kennedy Drive,7:12 AM,Saturday
+UVM Medical Center,7:47 AM,Kennedy Drive,7:57 AM,Saturday
+UVM Medical Center,8:32 AM,Kennedy Drive,8:42 AM,Saturday
+UVM Medical Center,9:17 AM,Kennedy Drive,9:27 AM,Saturday
+UVM Medical Center,10:02 AM,Kennedy Drive,10:12 AM,Saturday
+UVM Medical Center,10:47 AM,Kennedy Drive,10:57 AM,Saturday
+UVM Medical Center,11:32 AM,Kennedy Drive,11:42 AM,Saturday
+UVM Medical Center,12:17 PM,Kennedy Drive,12:27 PM,Saturday
+UVM Medical Center,1:02 PM,Kennedy Drive,1:12 PM,Saturday
+UVM Medical Center,1:47 PM,Kennedy Drive,1:57 PM,Saturday
+UVM Medical Center,2:32 PM,Kennedy Drive,2:42 PM,Saturday
+UVM Medical Center,3:17 PM,Kennedy Drive,3:27 PM,Saturday
+UVM Medical Center,4:02 PM,Kennedy Drive,4:12 PM,Saturday
+UVM Medical Center,4:47 PM,Kennedy Drive,4:57 PM,Saturday
+UVM Medical Center,5:32 PM,Kennedy Drive,5:42 PM,Saturday
+UVM Medical Center,6:17 PM,Kennedy Drive,6:27 PM,Saturday
+UVM Medical Center,7:02 PM,Kennedy Drive,7:12 PM,Saturday
+UVM Medical Center,7:47 PM,Kennedy Drive,7:57 PM,Saturday
+UVM Medical Center,8:17 PM,Kennedy Drive,8:27 PM,Saturday
+UVM Medical Center,9:32 PM,Kennedy Drive,9:42 PM,Saturday
+UVM Medical Center,10:37 PM,Kennedy Drive,10:57 PM,Saturday
+UVM Medical Center,8:46 AM,Waterfront,8:56 am*,Sunday
+UVM Medical Center,10:01 AM,Waterfront,10:11 AM,Sunday
+UVM Medical Center,11:16 AM,Waterfront,11:26 AM,Sunday
+UVM Medical Center,12:31 PM,Waterfront,12:41 PM,Sunday
+UVM Medical Center,1:46 PM,Waterfront,1:56 PM,Sunday
+UVM Medical Center,3:01 PM,Waterfront,3:11 PM,Sunday
+UVM Medical Center,4:16 PM,Waterfront,4:26 PM,Sunday
+UVM Medical Center,5:31 PM,Waterfront,5:41 PM,Sunday
+UVM Medical Center,6:46 PM,Waterfront,6:56 PM,Sunday
+UVM Medical Center,6:50 AM,Waterfront,7:05 AM,Weekdays
+UVM Medical Center,7:35 AM,Waterfront,7:50 AM,Weekdays
+UVM Medical Center,8:20 AM,Waterfront,8:35 AM,Weekdays
+UVM Medical Center,9:05 AM,Waterfront,9:20 AM,Weekdays
+UVM Medical Center,9:50 AM,Waterfront,10:05 am*,Weekdays
+UVM Medical Center,10:35 AM,Waterfront,10:50 AM,Weekdays
+UVM Medical Center,11:20 AM,Waterfront,11:35 AM,Weekdays
+UVM Medical Center,12:05 PM,Waterfront,12:20 PM,Weekdays
+UVM Medical Center,12:50 PM,Waterfront,1:05 PM,Weekdays
+UVM Medical Center,1:35 PM,Waterfront,1:50 PM,Weekdays
+UVM Medical Center,2:20 PM,Waterfront,2:35 PM,Weekdays
+UVM Medical Center,3:13 PM,Waterfront,3:28 PM,Weekdays
+UVM Medical Center,3:56 PM,Waterfront,4:11 PM,Weekdays
+UVM Medical Center,4:41 PM,Waterfront,4:56 PM,Weekdays
+UVM Medical Center,5:26 PM,Waterfront,5:41 PM,Weekdays
+UVM Medical Center,6:05 PM,Waterfront,6:20 PM,Weekdays
+UVM Medical Center,6:50 PM,Waterfront,7:05 PM,Weekdays
+UVM Medical Center,7:34 PM,Waterfront,7:49 PM,Weekdays
+UVM Medical Center,8:19 PM,Waterfront,8:34 PM,Weekdays
+UVM Medical Center,8:49 PM,Waterfront,9:04 PM,Weekdays
+UVM Medical Center,10:04 PM,Waterfront,10:19 pm*,Weekdays
+UVM Medical Center,11:19 PM,Waterfront,11:34 PM,Weekdays
+UVM Medical Center,6:47 AM,Waterfront,7:02 AM,Saturday
+UVM Medical Center,7:32 AM,Waterfront,7:47 AM,Saturday
+UVM Medical Center,8:17 AM,Waterfront,8:32 AM,Saturday
+UVM Medical Center,9:02 AM,Waterfront,9:17 AM,Saturday
+UVM Medical Center,9:47 AM,Waterfront,10:02 am*,Saturday
+UVM Medical Center,10:32 AM,Waterfront,10:47 AM,Saturday
+UVM Medical Center,11:16 AM,Waterfront,11:32 AM,Saturday
+UVM Medical Center,12:02 PM,Waterfront,12:17 PM,Saturday
+UVM Medical Center,12:47 PM,Waterfront,1:02 PM,Saturday
+UVM Medical Center,1:32 PM,Waterfront,1:47 PM,Saturday
+UVM Medical Center,2:17 PM,Waterfront,2:32 PM,Saturday
+UVM Medical Center,3:02 PM,Waterfront,3:17 PM,Saturday
+UVM Medical Center,3:47 PM,Waterfront,4:02 PM,Saturday
+UVM Medical Center,4:32 PM,Waterfront,4:47 PM,Saturday
+UVM Medical Center,5:17 PM,Waterfront,5:32 PM,Saturday
+UVM Medical Center,6:02 PM,Waterfront,6:17 PM,Saturday
+UVM Medical Center,6:47 PM,Waterfront,7:02 PM,Saturday
+UVM Medical Center,7:32 PM,Waterfront,7:47 PM,Saturday
+UVM Medical Center,8:17 PM,Waterfront,8:32 PM,Saturday
+UVM Medical Center,8:47 PM,Waterfront,9:02 PM,Saturday
+UVM Medical Center,10:02 PM,Waterfront,10:17* pm,Saturday
+UVM Medical Center,11:17 PM,Waterfront,11:32 PM,Saturday
+UVM Medical Center,6:20 AM,Kennedy Drive at Timber Lane,6:30 AM,Weekdays
+UVM Medical Center,7:05 AM,Kennedy Drive at Timber Lane,7:15 AM,Weekdays
+UVM Medical Center,7:50 AM,Kennedy Drive at Timber Lane,8:00 AM,Weekdays
+UVM Medical Center,8:35 AM,Kennedy Drive at Timber Lane,8:45 AM,Weekdays
+UVM Medical Center,9:20 AM,Kennedy Drive at Timber Lane,9:30 AM,Weekdays
+UVM Medical Center,10:05 AM,Kennedy Drive at Timber Lane,10:15 AM,Weekdays
+UVM Medical Center,10:50 AM,Kennedy Drive at Timber Lane,11:00 AM,Weekdays
+UVM Medical Center,11:35 AM,Kennedy Drive at Timber Lane,11:45 AM,Weekdays
+UVM Medical Center,12:20 PM,Kennedy Drive at Timber Lane,12:30 PM,Weekdays
+UVM Medical Center,1:05 PM,Kennedy Drive at Timber Lane,1:15 PM,Weekdays
+UVM Medical Center,1:50 PM,Kennedy Drive at Timber Lane,2:00 PM,Weekdays
+UVM Medical Center,2:35 PM,Kennedy Drive at Timber Lane,2:47 PM,Weekdays
+UVM Medical Center,3:20 PM,Kennedy Drive at Timber Lane,3:32 PM,Weekdays
+UVM Medical Center,4:05 PM,Kennedy Drive at Timber Lane,4:17 PM,Weekdays
+UVM Medical Center,4:50 PM,Kennedy Drive at Timber Lane,5:02 PM,Weekdays
+UVM Medical Center,5:35 PM,Kennedy Drive at Timber Lane,5:45 PM,Weekdays
+UVM Medical Center,6:20 PM,Kennedy Drive at Timber Lane,6:30 PM,Weekdays
+UVM Medical Center,7:05 PM,Kennedy Drive at Timber Lane,7:15 PM,Weekdays
+UVM Medical Center,7:50 PM,Kennedy Drive at Timber Lane,8:00 PM,Weekdays
+UVM Medical Center,8:20 PM,Kennedy Drive at Timber Lane,8:30 PM,Weekdays
+UVM Medical Center,9:35 PM,Kennedy Drive at Timber Lane,9:45 PM,Weekdays
+UVM Medical Center,10:50 PM,Kennedy Drive at Timber Lane,11:00 PM,Weekdays

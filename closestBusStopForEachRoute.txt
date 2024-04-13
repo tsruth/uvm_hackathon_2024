@@ -1,0 +1,9 @@
+route 1: University Heights
+route 2: Colchester Avenue at Mansfield House
+route 5: S. Winooski Avenue at King Street
+Route 6: Main Street at S Union Street
+Route 7: N Union Street at Pearl Street
+Route 8: UVM Waterman Building
+Route 9: No. Winooski Avenue at Grant Street
+Route 10: VT 2A at Sharon Drive
+Route 11: UVM Waterman Building
