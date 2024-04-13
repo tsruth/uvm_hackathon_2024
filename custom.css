@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  .header{
+    width:100%; 
+    text-align: center;  
+  }
+  
+  .header h1, .header h2{
+    margin: 0.25em 0em;
+  }
+  
+  .bus_stops{
+    display: block;
+    background: grey;
+    
+  }
+  
+  
+  .stops{
+    display: flex;
+    justify-content: space-around;
+    margin: 1em 0em;
+  }
+  
+  .bus_route .progress_bar{
+    width: 92%;
+    height: 1em;
+    margin: 0em auto;
+    background:white;
+  }
+  
+  .bus_route .bus{
+    
+    width:1.5em;
+    height:1.5em;
+    background:green;
+    border-radius: 0.75em;
+    transform: translate(10vw,-1.25em); 
+  }
+  
+  
