@@ -41,10 +41,22 @@ responseRoutes = requests.get(routesurl, headers=headers, params=querystring)
 dfRoutes = dfStops = pd.DataFrame.from_dict(responseRoutes.json()['data']['603'])
 
 
+"""
+Dataframe of all routes
+Columns: [
+    route_id   -- unique int
+    is_active  -- boolean
+    long_name  -- string name of line
+    stops      -- list of stops
+]
+"""
 dfRoutes = dfRoutes.drop(0,axis=0)
+columns_to_keep = ['route_id','is_active','long_name','stops']
+columns_to_drop = set(dfStops.columns) - set(columns_to_keep)
+dfRoutes = dfRoutes.drop(columns=columns_to_drop)
 
 
-pd.set_option('display.max_colwidth', None)
+pd.set_option('display.max_colwidth', 40)
 print(dfRoutes)
 
 
